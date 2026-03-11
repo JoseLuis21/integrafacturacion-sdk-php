@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.3](https://github.com/JoseLuis21/integrafacturacion-sdk-php/compare/integradte-sdk-php-v0.1.2...integradte-sdk-php-v0.1.3) (2026-03-11)
+
+
+### Bug Fixes
+
+* **composer:** update content-hash to match current dependencies ([0599e55](https://github.com/JoseLuis21/integrafacturacion-sdk-php/commit/0599e553d1864fe87ed7608d8e9a725104905341))
+
 ## [0.1.2](https://github.com/JoseLuis21/integrafacturacion-sdk-php/compare/integradte-sdk-php-v0.1.1...integradte-sdk-php-v0.1.2) (2026-03-11)
 
 
